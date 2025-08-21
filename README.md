@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Komal Yadav</h1>
-<h3 align="center">Curious mind, creative hands, and a love for building things that matter.</h3>
+<h3 align="center">Turning ideas into interactive experiences with code & design.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koya2003&label=Profile%20views&color=0e75b6&style=flat" alt="koya2003" /> </p>
 
